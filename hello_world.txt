@@ -1,1 +1,2 @@
 THis is the where i'm learning to use the git and the github together, nice and fun feels like i'm getting technical, tech savvy kind of person
+used the terminal code -"git config --global core.editor "code --wait""  , so to be able to write just git commit instead of writing whole git commit -m "the commit msg", something Vim was mentioned which is an editor more known for productivity
